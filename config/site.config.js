@@ -53,19 +53,19 @@ module.exports = {
       link: 'https://github.com/MAD-Producer',
     },
     {
-      name: 'bilibili',
+      name: 'BiliBili',
       link: 'https://space.bilibili.com/3546821106338121',
     },
     {
-      name: 'youtube',
+      name: 'Youtube',
       link: 'https://www.youtube.com/@InfiniteTeamOfficial',
     },
     {
-      name: 'discord',
+      name: 'Discord',
       link: 'https://discord.gg/vmtJcs5nxk',
     },
     {
-      name: 'qq',
+      name: 'QQ',
       link: 'https://qm.qq.com/q/LDaTG07qaC',
     },
   ],
